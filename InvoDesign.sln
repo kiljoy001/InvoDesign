@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoDesign", "InvoDesign\InvoDesign.csproj", "{D78BFB33-48B7-444B-89E7-241C9F5FD147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78BFB33-48B7-444B-89E7-241C9F5FD147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78BFB33-48B7-444B-89E7-241C9F5FD147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78BFB33-48B7-444B-89E7-241C9F5FD147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78BFB33-48B7-444B-89E7-241C9F5FD147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74FFB8C4-0659-487C-B59B-E8397DD2D5D4}
+	EndGlobalSection
+EndGlobal
